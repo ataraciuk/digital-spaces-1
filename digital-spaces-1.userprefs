@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/showNext.cs">
+    <Files>
+      <File FileName="Assets/Scripts/lavatriggerfire.cs" Line="24" Column="53" />
+      <File FileName="Assets/Scripts/LavaTriggerScript.cs" Line="20" Column="22" />
+      <File FileName="Assets/Scripts/PlatformMover.cs" Line="10" Column="25" />
+      <File FileName="Assets/Scripts/ButtonTrigger.cs" Line="26" Column="26" />
+      <File FileName="Assets/Scripts/showNext.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
