@@ -52,6 +52,7 @@
      <Compile Include="Assets\Scripts\iTween.cs" />
      <Compile Include="Assets\Scripts\lavatriggerfire.cs" />
      <Compile Include="Assets\Scripts\showNext.cs" />
+     <Compile Include="Assets\Scripts\win.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">

@@ -6,6 +6,7 @@ public class lavatriggerfire : MonoBehaviour {
 	
 	public Transform respawn;
 	public GameObject[] invisible;
+	public GameObject[] toMute;
 
 	// Use this for initialization
 	void Start () {
@@ -22,6 +23,7 @@ public class lavatriggerfire : MonoBehaviour {
 			other.transform.position = respawn.position;
 			other.audio.Play();
 			invisible.ToList().ForEach(x => x.SetActive(false));
+			toMute.ToList().ForEach(x => x.audio.Stop());
 		}
 	}
 }
